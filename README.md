@@ -1,5 +1,9 @@
 # test-admin
 
+## bilibili
+
+<https://www.bilibili.com/video/BV1g4wmemEq8/?spm_id_from=333.337.search-card.all.click&vd_source=fd5426d19aae781900cc2250c92cf986Ime&Cursor:PleaseSwitchTo1>
+
 ## Installation
 
 Install the application dependencies by running:
@@ -40,4 +44,3 @@ bun run build
 The included data provider use [ra-data-json-server](https://github.com/marmelab/react-admin/tree/master/packages/ra-data-json-server). It fits REST APIs powered by [JSON Server](https://github.com/typicode/json-server), such as [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
 You'll find an `.env` file at the project root that includes a `VITE_JSON_SERVER_URL` variable. Set it to the URL of your backend. By default, we set it to targets [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
-
